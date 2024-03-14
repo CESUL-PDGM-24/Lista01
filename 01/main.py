@@ -1,4 +1,4 @@
-from hangman import *
+from functions import *
 
 
 if __name__ == '__main__':
